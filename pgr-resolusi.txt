@@ -1,3 +1,5 @@
 -2023
   * Mahir Python
   * Mahir PHP
+  * Menjadi Webdev
+  * Menyelesaikan Project
